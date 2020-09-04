@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/Yog9)
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em> Associate Software Engineer at <a href="https://red.ht/2XeNPUj">Red Hat</a> <img src="https://media.giphy.com/media/fxTxdsbp8AEb6Gaq2B/giphy.gif" width="50" height="30"/></br>
+<p><em> Software Engineer at <a href="https://red.ht/2XeNPUj">Red Hat</a> <img src="https://media.giphy.com/media/fxTxdsbp8AEb6Gaq2B/giphy.gif" width="50" height="30"/></br>
 
 [![Twitter: YogitaVerma20](https://img.shields.io/twitter/follow/YogitaVerma20?style=social)](https://twitter.com/YogitaVerma20)
 [![Linkedin: Yog](https://img.shields.io/badge/yogita-verma199-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yogita-verma199/)](https://www.linkedin.com/in/yogita-verma199/)
