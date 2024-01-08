@@ -33,7 +33,7 @@ const yogita = {
     askMeAbout: ["web dev", "tech", "app dev", "gaming"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React"],
+            js: ["Vue", "React", "Angular"],
             css: ["materialize", "SASS", "bootstrap"]
         },
         backEnd: {
